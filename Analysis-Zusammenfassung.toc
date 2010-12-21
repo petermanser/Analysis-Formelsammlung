@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Funktionen}{2}
+\contentsline {subsection}{\numberline {1.1}Gerade, ungerade und periodische Funktion}{2}
+\contentsline {subsection}{\numberline {1.2}Umkehrbarkeit}{2}
+\contentsline {subsection}{\numberline {1.3}Allgemeine Gleichungsregel}{2}
+\contentsline {subsection}{\numberline {1.4}Gleichungsregel f\IeC {\"u}r das Wegschaffen von Wurzeln}{2}
+\contentsline {subsection}{\numberline {1.5}Monotone Funktionen}{2}
+\contentsline {subsection}{\numberline {1.6}Allgemeine Ungleichungsregel}{3}
+\contentsline {subsection}{\numberline {1.7}Arithmetische Grundoperationen mit Funktionen}{3}
+\contentsline {subsection}{\numberline {1.8}Verkettung oder Komposition}{3}
+\contentsline {subsection}{\numberline {1.9}Graphen der Verkettung von Funktionen mit linearen Funktionen}{4}
+\contentsline {subsection}{\numberline {1.10}Umkehrfunktion}{4}
+\contentsline {subsection}{\numberline {1.11}Graphen von Umkehrfunktionen}{4}
+\contentsline {subsection}{\numberline {1.12}Verkettung einer Funktion mit ihrer Umkehrfunktion}{4}
+\contentsline {section}{\numberline {2}Differentialrechnung}{5}
+\contentsline {subsection}{\numberline {2.1}Ableitung}{5}
+\contentsline {subsection}{\numberline {2.2}Wichtige Ableitungsfunktionen}{5}
+\contentsline {subsection}{\numberline {2.3}Linearit\IeC {\"a}tsregeln f\IeC {\"u}r die Ableitung}{5}
+\contentsline {subsection}{\numberline {2.4}Produkt- und Quotientenregel f\IeC {\"u}r Ableitungen}{6}
+\contentsline {subsection}{\numberline {2.5}Kettenregel f\IeC {\"u}r Ableitungen}{6}
+\contentsline {subsection}{\numberline {2.6}Linearisierungsformel}{6}
+\contentsline {subsection}{\numberline {2.7}Algorithmus von Newton}{7}
+\contentsline {subsection}{\numberline {2.8}Regel von Bernoulli-l'H\IeC {\^o}pital}{7}
+\contentsline {subsection}{\numberline {2.9}Taylor-Polynom}{8}
+\contentsline {subsection}{\numberline {2.10}Konvergenz von Taylorreihen}{8}
