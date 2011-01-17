@@ -96,7 +96,8 @@ $f$ und $g$ seien reelle Funktionen. Dann sind folgende Operationen definiert:
 \item $\displaystyle \frac{f}{g} := x \mapsto \frac{f(x)}{g(x)}$
 \end{itemize}
 
-Beim Vorzeichenwechsel ist der Defintionsbereich identisch mit jenem von $f$. Bei Summe, Differenz und Produkt ist er gleich dem Durchschnitt der Definitionsbereiche von $f$ und $g$ und im Falle des Quotienten darf $g$ natürlich nicht den Wert $0$ haben; er ist daher gleich $\displaystyle (DB(f) \cap DB(g)) \ \{x|g(x) = 0\}$.
+Beim Vorzeichenwechsel ist der Defintionsbereich identisch mit jenem von $f$. Bei Summe, Differenz und Produkt ist er gleich dem Durchschnitt der Definitionsbereiche von $f$ und $g$ und im Falle des Quotienten darf $g$ natürlich nicht den Wert $0$ haben; er ist daher gleich
+$$\displaystyle (DB(f) \cap DB(g)) \ \{x|g(x) = 0\}$$
 
 Sei ferner $c$ eine Zahl. Dann sind folgende Funktionen definiert:
 
@@ -175,11 +176,19 @@ $$\forall x \in DB(f): f^{-1}(f(x)) = x$$
 oder knapper
 $$f^{-1} \circ f = id_{DB(f)}$$
 
-% definition 10
+\subsection{Eigentliche und Uneigentliche Grenzwerte}
 
-% definition 11
+Eigentliche Grenzwerte sind Grenzwerte, welche gegen eine reelle Zahl streben. Uneigentliche Grenzwerte sind Grenzwerte, welche gegen Unendlich (positiv oder negativ) streben.
 
-% ... todo
+\subsection{Stetigkeit}
+
+Wenn die reelle Funktion $f$ an der Stelle $a$ definiert ist und
+$$\lim_{x \to a+} f(x) = \lim_{x \to a-} f(x) = f(a)$$
+gilt, dann heisst die Funktion bei $a$ stetig.
+
+Vereinfacht gesagt, kann man sagen, dass eine stetige Funktion gezeichnet werden kann, ohne den Stift abzusetzen.
+
+
 
 \section{Differentialrechnung}
 
