@@ -13,7 +13,7 @@
 \contentsline {subsection}{\numberline {1.12}Verkettung einer Funktion mit ihrer Umkehrfunktion}{4}
 \contentsline {subsection}{\numberline {1.13}Eigentliche und Uneigentliche Grenzwerte}{5}
 \contentsline {subsection}{\numberline {1.14}Stetigkeit}{5}
-\contentsline {section}{\numberline {2}Differentialrechnung}{5}
+\contentsline {section}{\numberline {2}Differenzialrechnung}{5}
 \contentsline {subsection}{\numberline {2.1}Ableitung}{5}
 \contentsline {subsection}{\numberline {2.2}Wichtige Ableitungsfunktionen}{5}
 \contentsline {subsection}{\numberline {2.3}Linearit\IeC {\"a}tsregeln f\IeC {\"u}r die Ableitung}{6}
